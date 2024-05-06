@@ -13,7 +13,7 @@
       "title": "E-Commerce Shopping Cart",
       "imageSrc": "https://cdn.pixabay.com/photo/2014/04/02/10/53/shopping-cart-304843_1280.png",
       "description": "E-commerce shopping page using HTML,CSS,JavaScript where user can choose any item and put the item in cart.User can also use coupon codes during the time of checkout  ",
-      "demo": "https://www.example.com",
+      "demo": "https://shopping-cart-omega-six.vercel.app/",
       "source": "https://github.com/debjyotidas/Shopping_Cart"
     },
     {
