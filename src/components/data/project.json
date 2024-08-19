@@ -53,7 +53,7 @@
       "key": 7,
       "title": "Stock Market Prediction-Analyisis",
       "imageSrc": "https://cdn.pixabay.com/photo/2021/04/09/13/27/chart-6164414_640.png",
-      "description": "A Stock market Prediction system  made with help of ANN and Keras predicting the future of a stock by analyzing past history.It also has a matplotlib to display graphical returns",
+      "description": "Made with help of ANN and Keras predicting the future of a stock by analyzing past history.It also has a matplotlib to display graphical returns",
       "demo": "https://github.com/debjyotidas/Stock_Market_Prediction-Analyisis/tree/main",
       "source": "https://github.com/debjyotidas/Stock_Market_Prediction-Analyisis/tree/main"
     },
