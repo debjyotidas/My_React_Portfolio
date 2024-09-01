@@ -31,7 +31,7 @@ const Home = () => {
         >
           <h1 ref={typedRef}>
           </h1>
-          <a href={pdf} download="resume.pdf" className='btn btn-outline-warning my-3'>Download Resume</a>
+          <a href={pdf} download="Debjyoti_Das_cv_Frontend_Dev.pdf" className='btn btn-outline-warning my-3'>Download Resume</a>
         </div>
         
             <div className='right'>
