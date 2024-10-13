@@ -1,13 +1,14 @@
 [
+  
   {
     "key": 1,
-    "title": "TextUtils",
+    "title": "Admin-Dashboard",
     "imageSrc": "https://cdn.pixabay.com/photo/2017/01/18/08/25/social-media-1989152_640.jpg",
-    "description": "Dynamic text manipulation app using HTML, CSS, ReactJS having responsive and interactive user experience used to integrate functionalities such as text case conversion, character count, word count.",
-    "demo": "https://github.com/debjyotidas/TextUtils",
-    "source": "https://github.com/debjyotidas/TextUtils"
-  },
+    "description": "a highly interactive and responsive Admin Dashboard using React and Material UI, aimed at improving user management, data analytics, and content management systems. This project features real-time data visualization, user management, and performance optimization for seamless scalability and responsiveness across devices.",
+    "demo": "https://admin-dashboard-one-indol-85.vercel.app/"
+    "source": "https://github.com/debjyotidas/Admin-Dashboard",
     
+  },
   {
       "key": 2,
       "title": "E-Commerce Shopping Cart",
