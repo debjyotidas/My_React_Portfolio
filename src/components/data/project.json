@@ -7,7 +7,6 @@
     "description": "a highly interactive and responsive Admin Dashboard using React and Material UI, aimed at improving user management, data analytics, and content management systems. This project features real-time data visualization, user management, and performance optimization for seamless scalability and responsiveness across devices.",
     "demo": "https://admin-dashboard-one-indol-85.vercel.app/"
     "source": "https://github.com/debjyotidas/Admin-Dashboard",
-    
   },
   {
     "key": 2,
@@ -15,8 +14,7 @@
     "imageSrc": "/assets/projects/CurrencyConvertor.png",
     "description": "A dynamic currency converter using React.js, Tailwind CSS, and Material-UI. The app fetches real-time exchange rates, ensuring accurate conversions. With a responsive design. This project showcases my skills in modern web development and commitment to creating practical, user-friendly applications.",
     "demo": "https://currency-convertor-kappa-one.vercel.app/"
-    "source": "https://github.com/debjyotidas/Currency_convertor",
-    
+    "source": "https://github.com/debjyotidas/Currency_convertor", 
   },
   {
       "key": 3,
