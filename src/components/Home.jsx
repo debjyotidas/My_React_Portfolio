@@ -1,5 +1,5 @@
 import React from 'react'
-import pdf from '../pdf/resume.pdf'
+import pdf from '../pdf/DebjyotiDas_cv_Frontend_Dev.pdf'
 import hero from './data/hero.json'
 import Typed from 'typed.js'
 import { useEffect,useRef } from 'react'
