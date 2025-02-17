@@ -35,6 +35,10 @@
         "title": "GitHub",
         "imageSrc": "skills/GitHub.png"
       },
+        {
+            "title": "Cypress",
+            "imageSrc":"skills/cypress_logo_social.png"
+        },
       {
         "title": "Git",
         "imageSrc": "skills/git.png"
